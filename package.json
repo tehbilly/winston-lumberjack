@@ -1,5 +1,5 @@
 {
-  "name": "winston-lumberjack",
+  "name": "winston-lumberjack-rotate",
   "version": "1.0.0",
   "description": "A transport for winston that rotates files the same way that natefinch/lumberjack does",
   "main": "dist/lumberjack.js",
